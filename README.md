@@ -6,7 +6,6 @@ spectral optimization for deep learning.
 ## Layout
 
     project/
-      docs/problem.tex            assignment sheet (one-page main + appendix)
       spectral_harness/           starter code -- read its README first
         README.md                 quickstart, rules, self-audit checklist
         my_optimizer.py           student work lives here
@@ -23,7 +22,7 @@ pip install -r requirements.txt
 ./reproduce.sh
 ```
 
-Read [`project/docs/problem.tex`](project/docs/problem.tex) (compile with
-`pdflatex` or read the source) for the full assignment, rubric, and rules.
-Read [`project/spectral_harness/README.md`](project/spectral_harness/README.md)
+The full assignment sheet (problem statement, rubric, rules) is
+distributed separately by the instructor. Read
+[`project/spectral_harness/README.md`](project/spectral_harness/README.md)
 for the starter API and the self-audit checklist.

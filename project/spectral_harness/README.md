@@ -4,8 +4,8 @@ A small, read-only scaffolding that lets you focus on the one file that
 matters: `my_optimizer.py`. Everything in `harness/` is fixed for the
 class so all student results are comparable.
 
-> Read `docs/problem.tex` (compile to PDF or read the source) for the
-> full assignment, rubric, and rules.
+> The full assignment sheet (problem statement, rubric, rules) is
+> distributed separately by the instructor.
 
 ## Layout
 
