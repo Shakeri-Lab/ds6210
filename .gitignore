@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual envs
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Compiled docs
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+project/docs/*.pdf
+
+# Run artifacts (regenerated on every run)
+project/spectral_harness/logs/
+project/spectral_harness/telemetry/
+project/spectral_harness/data/
+project/spectral_harness/runs/
+project/spectral_harness/figures/
+project/spectral_harness/*.json
+project/spectral_harness/**/*_telemetry.json
+project/spectral_harness/**/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
